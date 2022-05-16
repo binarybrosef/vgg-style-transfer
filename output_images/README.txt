@@ -1,0 +1,1 @@
+script.py saves generated output images in this folder.
